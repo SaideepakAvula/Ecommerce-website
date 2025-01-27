@@ -1,21 +1,21 @@
-🛒 GetMyDeal
-Welcome to GetMyDeal—your go-to platform for discovering unbeatable online deals! Whether you're a savvy shopper on the hunt for discounts or a business owner seeking a dependable e-commerce solution, GetMyDeal has you covered
+Welcome to ShopEase—your go-to platform for discovering unbeatable online deals! Whether you're a savvy shopper on the hunt for discounts or a business owner seeking a dependable e-commerce solution, ShopEase has you covered.
 
-
-🛍️ About GetMyDeal
-GetMyDeal is a dynamic e-commerce platform that prioritizes a user-focused, seamless shopping experience. Leveraging the MVC (Model-View-Controller) architecture, it brings efficient, easy-to-navigate design and robust features for both users and administrators.
+🛍️ About ShopEase
+ShopEase is a dynamic e-commerce platform that prioritizes a user-focused, seamless shopping experience. Leveraging the MVC (Model-View-Controller) architecture, it brings efficient, easy-to-navigate design and robust features for both users and administrators.
 
 Key Highlights:
+
 Designed for Users: We prioritize your convenience and safety with secure login options, dynamic product categories, and smooth cart management.
-Empowering Admins: GetMyDeal provides admin users with tools for managing products, organizing categories, setting custom coupons, and accessing insightful sales analytics.
-Continuous Growth: We're committed to consistently enhancing GetMyDeal, with exciting new features and improvements planned for the future.
+Empowering Admins: ShopEase provides admin users with tools for managing products, organizing categories, setting custom coupons, and accessing insightful sales analytics.
+Continuous Growth: We're committed to consistently enhancing ShopEase, with exciting new features and improvements planned for the future.
+
 🌟 Features
 
 🔐 User Authentication
 
 Seamless, secure login with email verification and OTP (One-Time Password) through Twilio for extra security.
 
-📦 Dynamic Product Listings.
+📦 Dynamic Product Listings
 
 A wide range of products is organized in intuitive categories, making browsing easy and efficient.
 
@@ -53,26 +53,21 @@ Admins enjoy a full suite of management tools for products, categories, discount
 
 ⚙️ Technologies Utilized
 
-MongoDB Native Driver.
-
+MongoDB Native Driver:
 Efficient database management with MongoDB ensures fast and reliable data handling, improving overall platform performance.
 
-Razorpay Payment Gateway
-
+Razorpay Payment Gateway:
 Secure, user-friendly payments through Razorpay, allowing customers to complete transactions with confidence.
 
-Twilio
-
+Twilio:
 Integrated for OTP verification, Twilio provides secure and trusted account authentication.
 
-GitHub Actions
-
+GitHub Actions:
 Our CI/CD pipeline is powered by GitHub Actions, which automates testing and deployment for seamless updates to the platform.
 
-Node.js
-
+Node.js:
 The backbone of our application, providing a high-performance, scalable environment to handle user and transaction volume.
 
-Express.js
+Express.js:
 The fast and lightweight framework that manages routing and middleware, simplifying development and enhancing performance.
 
