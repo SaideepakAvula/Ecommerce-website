@@ -11,7 +11,7 @@ Continuous Growth: We're committed to consistently enhancing ShopEase, with exci
 
 🌟 Features
 
-🔐 User Authentication
+🔐 User Authentication   
 
 Seamless, secure login with email verification and OTP (One-Time Password) through Twilio for extra security.
 
